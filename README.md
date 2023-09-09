@@ -4,5 +4,5 @@ This is an exercise submitted to frontendmentor.io
 
 I mimeo the design images using the style-guide.md and README-template.md turning it to html & css code.
 
-## This is to enhance my skill set in front-end web development. 
+## This made this exercise to enhance my skill-set on front-end web development. 
 
